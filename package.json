@@ -1,5 +1,5 @@
 {
-  "name": "bogos",
+  "name": "bogos-request",
   "version": "1.0.0",
   "description": "Utilities to send form data and json to a server mean to be used for nodejs express",
   "main": "lib/index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegomendoza97/bogos.git"
+    "url": "git+https://github.com/diegomendoza97/bogos-request.git"
   },
   "files": [
     "lib/**/*"
@@ -21,9 +21,9 @@
   "author": "Diego Menfoza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/diegomendoza97/bogos/issues"
+    "url": "https://github.com/diegomendoza97/bogos-request/issues"
   },
-  "homepage": "https://github.com/diegomendoza97/bogos#readme",
+  "homepage": "https://github.com/diegomendoza97/bogos-request#readme",
   "devDependencies": {
     "prettier": "^2.8.2",
     "tslint": "^6.1.3",
