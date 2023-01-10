@@ -1,13 +1,13 @@
 {
   "name": "bogos-request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilities to send form data and json to a server mean to be used for nodejs express",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "format": "prettier --write \"src/**/*.ts\"",
     "lint": "tslint -p tsconfig.json"
   },
   "repository": {
@@ -18,7 +18,7 @@
     "lib/**/*"
   ],
   "keywords": [],
-  "author": "Diego Menfoza",
+  "author": "Diego Mendoza",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/diegomendoza97/bogos-request/issues"

@@ -1,10 +1,6 @@
 # Dependency directories
 node_modules/
 /lib
-src
-tsconfig.json
-tslint.json
-.prettierrc
 
 # Logs
 logs
