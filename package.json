@@ -1,6 +1,6 @@
 {
   "name": "bogos-request",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utilities to send form data and json to a server mean to be used for nodejs express",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -14,9 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/diegomendoza97/bogos-request.git"
   },
-  "files": [
-    "lib/**/*"
-  ],
   "keywords": [],
   "author": "Diego Mendoza",
   "license": "ISC",
@@ -30,6 +27,7 @@
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^4.9.4"
   },
+  "files": ["lib/**/*"],
   "dependencies": {
     "rxjs": "^7.8.0"
   }
